@@ -1,0 +1,5 @@
+  -----------------------------------BREAK DOWN THE TASK INTO PEICES----------------------------------------
+
+1. Dark Mode
+2. Layout changes according to the screen size
+3. 
